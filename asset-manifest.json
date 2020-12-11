@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tarefa4-react/tarefa4/static/css/main.4d68ab72.chunk.css",
+    "main.js": "/tarefa4-react/tarefa4/static/js/main.412686f6.chunk.js",
+    "main.js.map": "/tarefa4-react/tarefa4/static/js/main.412686f6.chunk.js.map",
+    "runtime-main.js": "/tarefa4-react/tarefa4/static/js/runtime-main.ce670ff9.js",
+    "runtime-main.js.map": "/tarefa4-react/tarefa4/static/js/runtime-main.ce670ff9.js.map",
+    "static/js/2.9a7cca01.chunk.js": "/tarefa4-react/tarefa4/static/js/2.9a7cca01.chunk.js",
+    "static/js/2.9a7cca01.chunk.js.map": "/tarefa4-react/tarefa4/static/js/2.9a7cca01.chunk.js.map",
+    "static/js/3.1cd9e87f.chunk.js": "/tarefa4-react/tarefa4/static/js/3.1cd9e87f.chunk.js",
+    "static/js/3.1cd9e87f.chunk.js.map": "/tarefa4-react/tarefa4/static/js/3.1cd9e87f.chunk.js.map",
+    "index.html": "/tarefa4-react/tarefa4/index.html",
+    "static/css/main.4d68ab72.chunk.css.map": "/tarefa4-react/tarefa4/static/css/main.4d68ab72.chunk.css.map",
+    "static/js/2.9a7cca01.chunk.js.LICENSE.txt": "/tarefa4-react/tarefa4/static/js/2.9a7cca01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce670ff9.js",
+    "static/js/2.9a7cca01.chunk.js",
+    "static/css/main.4d68ab72.chunk.css",
+    "static/js/main.412686f6.chunk.js"
+  ]
+}
