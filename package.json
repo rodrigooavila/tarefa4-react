@@ -15,9 +15,6 @@
     "bugs": {
         "url": "https://github.com/rodrigooavila/tarefa4-react/issues"
     },
-    "homepage": "https://rodrigooavila.github.io/tarefa4-react",
-    "dependencies": {
-        "styled-components": "^5.2.1"
-    }
-
+    "homepage": "https://rodrigooavila.github.io/tarefa4-react#readme",
+    
 }
